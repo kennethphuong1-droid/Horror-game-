@@ -6,7 +6,22 @@ Roblox Studio place snapshot from **Horror Adventure game**, place ID `138299763
 
 1. Clone or download this repository.
 2. Open Roblox Studio.
-3. Choose **File > Open from File** and select `HorrorAdventure.rbxl`.
+3. Choose **File > Open from File** and select `HorrorAdventure-Optimized.rbxl` for the simplified version.
+
+## Simplified school
+
+`HorrorAdventure-Optimized.rbxl` contains the Studio building cleanup completed October 16, 2026. `HorrorAdventure.rbxl` retains the original supplied snapshot for recovery.
+
+- School parts: **11,612 → 9,360**, removing **2,252 parts (19.4%)**.
+- Removed duplicates, hairline surface seams, buried parts, and unused imported loader scripts.
+- Simplified locker vents, curtain folds, bookshelf details, and roof-post density. Continuous roof collision guards remain.
+- Trimmed overlapping cross-hall ceilings, roof trim, stair thresholds, and roof-access walls without changing their combined structural coverage.
+- Disabled collision on 1,302 decorative parts.
+- Final school scans: zero exact geometry duplicates and zero overlapping coplanar structural pairs in the wall/floor/ceiling/roof-cap/threshold check. Intentional assembly joins and all possible mesh intersections are outside that check.
+- All nine baseline pathfinding checks passed again: east corridors and central classrooms on all four floors, plus north stair access to the roof. A character also walked the tested ground-floor corridor segment in Play mode.
+- This measures geometry and navigation, not an FPS improvement. Studio Output contained plugin/core UI and asset warnings; all routes and rooms have not been manually walked.
+
+The one-time maintenance passes are in `tools/`. They are not runtime scripts. Run `SimplifySchool.luau` followed by `FinishStructuralJoins.luau` only against the original school layout in Studio Edit mode, in the same Studio session. The first pass rejects an already simplified school. Existing historical content outside the active school was preserved.
 
 `HorrorAdventure.rbxl` is the full native place snapshot supplied as `GameH.rbxl` on October 15, 2026. It preserves the map, saved instances, scripts, lighting, terrain, and other content included by Studio in that file. This is a snapshot; later Studio edits are not automatically synced to GitHub. Download a new copy from Studio and replace this file to update it.
 
