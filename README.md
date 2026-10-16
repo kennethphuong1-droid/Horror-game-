@@ -12,12 +12,13 @@ Roblox Studio place snapshot from **Horror Adventure game**, place ID `138299763
 
 `HorrorAdventure-Optimized.rbxl` contains the Studio building cleanup completed October 16, 2026. `HorrorAdventure.rbxl` retains the original supplied snapshot for recovery.
 
-- School parts: **11,612 → 9,358**, removing **2,254 parts (19.4%)**.
+- School parts after cleanup: **11,612 → 9,358**, removing **2,254 parts (19.4%)**. The subsequent four-pane classroom window update adds 84 parts, for a current total of **9,442**.
 - Removed duplicates, hairline surface seams, buried parts, and unused imported loader scripts.
 - Simplified locker vents, curtain folds, bookshelf details, and roof-post density. Continuous roof collision guards remain.
 - Trimmed overlapping cross-hall ceilings, roof trim, stair thresholds, and roof-access walls without changing their combined structural coverage.
 - Exterior repair: separated eight facade-band faces from floor slabs by 0.2 studs, trimmed 16 protruding end-wall edges, removed eight overlapping slab shoulders, and removed two redundant roof fascia pieces. The nine navigation checks passed again after this repair. `tools/CleanExteriorFaces.luau` records this additional one-time Edit-mode pass.
 - Disabled collision on 1,302 decorative parts.
+- All 21 ordinary classrooms with exterior openings now have four equal-width, evenly spaced glass panes. Pane count, width, and spacing were checked in every updated room. Existing wall openings, curtains, and specialist-room windows remain in place. `tools/FourClassroomWindows.luau` records the one-time change.
 - Final school scans: zero exact geometry duplicates and zero overlapping coplanar structural pairs in the wall/floor/ceiling/roof-cap/threshold check. Intentional assembly joins and all possible mesh intersections are outside that check.
 - All nine baseline pathfinding checks passed again: east corridors and central classrooms on all four floors, plus north stair access to the roof. A character also walked the tested ground-floor corridor segment in Play mode.
 - This measures geometry and navigation, not an FPS improvement. Studio Output contained plugin/core UI and asset warnings; all routes and rooms have not been manually walked.
