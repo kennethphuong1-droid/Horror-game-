@@ -1,0 +1,307 @@
+{
+  "exportDate": "2026-10-17",
+  "placeId": 77673228224887,
+  "universeId": 10771319202,
+  "snapshot": {
+    "path": "MovementPhone-2026-10-17.rbxl",
+    "bytes": 360612,
+    "sha256": "ea69aab0f17fb5a5e51247d3ab6ce5609b584200e70d53db8211c8ac4e6dda69",
+    "formatVersion": 0,
+    "serializedClasses": 121,
+    "serializedInstances": 3565,
+    "chunkCount": 2345
+  },
+  "scriptCount": 48,
+  "savedAnimationSequenceCount": 12,
+  "assetReferenceCount": 113,
+  "sources": [
+    {
+      "path": "studio-export/src/ServerScriptService/PhoneEquip/init.server.luau",
+      "studioPath": "ServerScriptService.PhoneEquip",
+      "bytes": 1204,
+      "sha256": "3a93e2c1ba202a0c71412b5e05459216417cfc80c46c6f71d7e6e03d4c4a26e7"
+    },
+    {
+      "path": "studio-export/src/ServerScriptService/Sprint/init.server.luau",
+      "studioPath": "ServerScriptService.Sprint",
+      "bytes": 1612,
+      "sha256": "e168905b3675a784ab0a1b52740c26a1e3d1d7ff2dd58aebc591dbd21649e3e8"
+    },
+    {
+      "path": "studio-export/src/ServerStorage/StarterCharacterBeforeDirectionalRig/Animate/init.client.luau",
+      "studioPath": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate",
+      "bytes": 16807,
+      "sha256": "21de7f3e004701ca0c76ac1196449293534285d5cd68618ce37513592ae48d1e"
+    },
+    {
+      "path": "studio-export/src/StarterPack/iPhone/ScreenLight/init.server.luau",
+      "studioPath": "StarterPack.iPhone.ScreenLight",
+      "bytes": 950,
+      "sha256": "ac9053deac29107303694b52743dc0869deffe560129c0b1ff1826ad736af5a2"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterCharacter/Animate/init.client.luau",
+      "studioPath": "StarterPlayer.StarterCharacter.Animate",
+      "bytes": 17964,
+      "sha256": "215b3f687accaf8d49ce9fc208974af5f2c5fbdb5d9b8f2da339c00b42fd7887"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterCharacterScripts/Animate/init.client.luau",
+      "studioPath": "StarterPlayer.StarterCharacterScripts.Animate",
+      "bytes": 17964,
+      "sha256": "215b3f687accaf8d49ce9fc208974af5f2c5fbdb5d9b8f2da339c00b42fd7887"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterCharacterScripts/HighFallAnimation/init.client.luau",
+      "studioPath": "StarterPlayer.StarterCharacterScripts.HighFallAnimation",
+      "bytes": 2272,
+      "sha256": "38e0d51a752e66146cd14f92d6d64b45da3b4fca270a66350d39f17a6cb82aff"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterCharacterScripts/LandingAnimation/init.client.luau",
+      "studioPath": "StarterPlayer.StarterCharacterScripts.LandingAnimation",
+      "bytes": 3058,
+      "sha256": "5d6e860697c29ee7d17dd6f1cabc9da7404445805cdb145c9819eef7ea0d7e33"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/AirTravelFacing/init.client.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.AirTravelFacing",
+      "bytes": 1348,
+      "sha256": "7cb44575e333505f1be6503a3bd9b3809efdc605352fa3c9601a784dcbbfdb0a"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/AnimationFootsteps/init.client.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.AnimationFootsteps",
+      "bytes": 4442,
+      "sha256": "74e0ccef0944d91882e9773f31f086ca31fa4fe20e7c225f0b870865393064ec"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/AnimationFootsteps/FootContacts/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.AnimationFootsteps.FootContacts",
+      "bytes": 688,
+      "sha256": "2ceff8c362cb0390e1b6d6973ff21ae4329401ef7338f372c60257d65ec8faa2"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/init.client.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion",
+      "bytes": 5265,
+      "sha256": "bc11c1098f8588ecc0b7d6873049587dc3992d12726c6ccb636bd309875d422f"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses",
+      "bytes": 97,
+      "sha256": "642b17bfc649e3911002ad5cf6ad624d24b048582d2645a9fa45c941383cb1d9"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/106329735159049/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.106329735159049",
+      "bytes": 26373,
+      "sha256": "7dd627c4ec41a6e57f7ddb129b964f9d18c3933dc92ee53d4987148ccd1d3d05"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/120133944205981/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.120133944205981",
+      "bytes": 26345,
+      "sha256": "e0f65aabd4f8bd2de9b6763a9895c033cda2d5cddb0cfc3bd2edd46b78fa54ab"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/125750702/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.125750702",
+      "bytes": 15416,
+      "sha256": "c0ac695a3964d04acf0c6847b14014bc11f33d679f37ff7e2769cd30f45a0b85"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/126175296967819/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.126175296967819",
+      "bytes": 17965,
+      "sha256": "209e8556be98371ed4d71de86c332466475bf7973ee69b1d8b864ea937c61cf7"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/128777973/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.128777973",
+      "bytes": 41062,
+      "sha256": "9c8707009f7d76d9ec67d3e0c5cdd68eca3a70261c0c6d0df6b5e2d3abb2ac09"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/128853357/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.128853357",
+      "bytes": 32681,
+      "sha256": "7d6c74b0b3ee1127139b0b8ed15581d23c621708cc0c52a470b1e4e1eae4515f"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/129423030/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129423030",
+      "bytes": 31836,
+      "sha256": "b693a0bec8fef1e8f5e6ca9ad6a298ed91164738157e117adf0346f49c025ff4"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/129423131/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129423131",
+      "bytes": 30758,
+      "sha256": "b6037b33615cc4b2cefec9d8fdfb927a06470033b3c6c700da36f1bd1c1daa70"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/129967390/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129967390",
+      "bytes": 2119,
+      "sha256": "d051d68173b8a2c3cac13b511d664131b5c9cc2097455ff2f73f1fc017cefc18"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/129967478/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129967478",
+      "bytes": 2030,
+      "sha256": "d7e571a0eeffac2eaef74c8b695c350b1c26b2c020a60909e35bb8b559be1fa3"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/178130996/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.178130996",
+      "bytes": 1383,
+      "sha256": "6dc6fee272ff6f629d711f4ea16344225166c0f2717736f8b4fe1aad5e7ef744"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/180426354/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.180426354",
+      "bytes": 21857,
+      "sha256": "fb536d6331459202ccd5edcb8cff0bf5bfbddd9c8962d468c0ebc3ee3ffcba0c"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/180436148/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.180436148",
+      "bytes": 14682,
+      "sha256": "77ffc43714bca3caa3c3bc9e6257e4a9eb3dfb067af699d8a5d29133f7bc0874"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/180436334/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.180436334",
+      "bytes": 10754,
+      "sha256": "492a34f555a6bcd64d417905f84120cfa5b81b11e731ef6533315d540d9d1e03"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182393478/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182393478",
+      "bytes": 550,
+      "sha256": "8095cbb6058272385720495fd6383a49edddd44d9c42b2b9b1069c05768dba4a"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182435998/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182435998",
+      "bytes": 23097,
+      "sha256": "5b636a424a9f8746a3946ab578fc2d144280f3f84d624b5f41b98aa243cfc120"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182436842/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182436842",
+      "bytes": 38398,
+      "sha256": "2e3087951b04916d09dbad72a7f13b4b3ba48723ee5a951148021f87f8276913"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182436935/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182436935",
+      "bytes": 25541,
+      "sha256": "ad384e9f2b3b085e7960d6bfbec4c5d9e70c7644d6710f424a4d98a1b5d45cbb"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491037/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491037",
+      "bytes": 23322,
+      "sha256": "be929646031e8395264f2be9026722bab40c56c9dba18258debcbd7212e6bc39"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491065/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491065",
+      "bytes": 23322,
+      "sha256": "be929646031e8395264f2be9026722bab40c56c9dba18258debcbd7212e6bc39"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491248/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491248",
+      "bytes": 38643,
+      "sha256": "29d30aa30802c254e6af1fe6a40e2cd0b34d47df7e6851f47d5157bcea7ead87"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491277/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491277",
+      "bytes": 38643,
+      "sha256": "29d30aa30802c254e6af1fe6a40e2cd0b34d47df7e6851f47d5157bcea7ead87"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491368/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491368",
+      "bytes": 25541,
+      "sha256": "39d5536bd83a48fdeb436689abb789247f2a4d9ca07b85c3e03ee02250e7d31f"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491423/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491423",
+      "bytes": 25541,
+      "sha256": "39d5536bd83a48fdeb436689abb789247f2a4d9ca07b85c3e03ee02250e7d31f"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/74616130696483/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.74616130696483",
+      "bytes": 26625,
+      "sha256": "2cb0cd75105c16bc11f918c88f67a29f4b64a4486bc26da0aa1f735f65d3fd91"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/80030795855352/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.80030795855352",
+      "bytes": 45297,
+      "sha256": "07728a4f2eff5acfd1896c9e6552b138328082de8c9bbe0938bcef653d204917"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/83832832062401/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.83832832062401",
+      "bytes": 26633,
+      "sha256": "205919abcff187f942625cffb0955bc36c0d37aecdf456d3f0a245bce234a266"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/87983269304583/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.87983269304583",
+      "bytes": 2198,
+      "sha256": "780149a3f887f85507139db980999953092f0c6930d7a1e3169fd0c771ea2d13"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/92992722376914/init.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.92992722376914",
+      "bytes": 11852,
+      "sha256": "ef27c35c790f27d55515a386079bc3ac09ac205cceb907c12af737038f2de4ee"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/PhoneAwareness/init.client.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.PhoneAwareness",
+      "bytes": 1947,
+      "sha256": "6fb0f1c14cc22641d5b758d278e058bee3af25d977208ed123f4b25feb133e23"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/PhoneToggle/init.client.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.PhoneToggle",
+      "bytes": 2688,
+      "sha256": "dd1adefb44b659a581b75852f7152804805952a5e3f8bd3d774623af0de24461"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/ShoulderLock/init.client.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.ShoulderLock",
+      "bytes": 5813,
+      "sha256": "086ddfbb11e92ac6e2a9db6075398ce9a0389bdec684b05628f47cd3a44e0a68"
+    },
+    {
+      "path": "studio-export/src/StarterPlayer/StarterPlayerScripts/Sprint/init.client.luau",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.Sprint",
+      "bytes": 3031,
+      "sha256": "7a3542f6b0e0c3d55d461eeacfc2617d37217f1062258833967749a15769f5fb"
+    },
+    {
+      "path": "studio-export/src/Workspace/Camera/WelderPart/init.server.luau",
+      "studioPath": "Workspace.Camera.WelderPart",
+      "bytes": 22,
+      "sha256": "59eaf281352928137c1a7d8bc5bf1f920837456e735f7a609a94e1b16763ded9"
+    },
+    {
+      "path": "studio-export/src/Workspace/Camera/WelderPart__48/init.server.luau",
+      "studioPath": "Workspace.Camera.WelderPart",
+      "bytes": 22,
+      "sha256": "59eaf281352928137c1a7d8bc5bf1f920837456e735f7a609a94e1b16763ded9"
+    }
+  ]
+}

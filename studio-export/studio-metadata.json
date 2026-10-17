@@ -1,0 +1,2085 @@
+{
+  "classes": {
+    "BadgeService": 1,
+    "Humanoid": 3,
+    "Highlight": 1,
+    "PublishService": 1,
+    "PluginGuiService": 1,
+    "GuiService": 1,
+    "CylinderHandleAdornment": 9,
+    "StarterGui": 1,
+    "BloomEffect": 1,
+    "Attachment": 81,
+    "PluginManagementService": 1,
+    "PluginDebugService": 1,
+    "DebuggerManager": 1,
+    "AssetService": 1,
+    "ScriptService": 1,
+    "ImageButton": 17,
+    "HapticService": 1,
+    "HumanoidController": 1,
+    "MeshContentProvider": 1,
+    "NumberValue": 9,
+    "AccessoryDescription": 12,
+    "CollectionService": 1,
+    "SerializationService": 1,
+    "KeyframeSequenceProvider": 1,
+    "AvatarEditorService": 1,
+    "Accessory": 12,
+    "Pants": 2,
+    "CFrameValue": 8,
+    "MicroProfilerService": 1,
+    "ImageLabel": 13,
+    "StarterPlayer": 1,
+    "Animation": 31,
+    "UIListLayout": 9,
+    "HttpService": 1,
+    "ProcessInstancePhysicsService": 1,
+    "PointLight": 1,
+    "StudioCaptureService": 1,
+    "TweenService": 1,
+    "ReplicatedStorage": 1,
+    "CaptureService": 1,
+    "CoreGui": 1,
+    "Part": 41,
+    "ReplicatedFirst": 1,
+    "StarterPack": 1,
+    "PluginConnectionService": 1,
+    "RunService": 1,
+    "VisualizationMode": 20,
+    "Debris": 1,
+    "VisualizationModeService": 1,
+    "Tool": 1,
+    "Texture": 1,
+    "SharedTableRegistry": 1,
+    "ChannelTabsConfiguration": 1,
+    "Script": 5,
+    "Handles": 1,
+    "Terrain": 1,
+    "InstanceExtensionsService": 1,
+    "VirtualInputManager": 1,
+    "SocialService": 1,
+    "UserService": 1,
+    "Camera": 2,
+    "DepthOfFieldEffect": 2,
+    "Lighting": 1,
+    "HumanoidDescription": 3,
+    "ReflectionService": 1,
+    "FeatureRestrictionManager": 1,
+    "UIDragDetectorService": 1,
+    "KeyframeSequence": 12,
+    "ModerationService": 1,
+    "UIPadding": 10,
+    "StyleDerive": 19,
+    "StyleRule": 523,
+    "ServerScriptService": 1,
+    "StyleSheet": 17,
+    "StylingService": 1,
+    "MemStorageConnection": 239,
+    "PermissionsService": 1,
+    "MarketplaceService": 1,
+    "ClientReplicator": 1,
+    "TextButton": 35,
+    "UIStroke": 1,
+    "Sound": 2,
+    "PolicyService": 1,
+    "MouseService": 1,
+    "": 5,
+    "TextBoxService": 1,
+    "ContextActionService": 1,
+    "ViewportFrame": 1,
+    "ScriptContext": 1,
+    "SpawnLocation": 1,
+    "StarterCharacterScripts": 1,
+    "UITextSizeConstraint": 3,
+    "UniqueIdLookupService": 1,
+    "ScreenGui": 42,
+    "MaterialService": 1,
+    "PointsService": 1,
+    "SlimContentProvider": 1,
+    "ServiceVisibilityService": 1,
+    "GenerationService": 1,
+    "Visit": 1,
+    "StyleLink": 6,
+    "StudioService": 1,
+    "SolidModelContentProvider": 1,
+    "SpawnerService": 1,
+    "ControllerService": 1,
+    "SpecialMesh": 15,
+    "WeldConstraint": 3,
+    "Folder": 22,
+    "FileMesh": 3,
+    "Shirt": 2,
+    "RemoteCommandService": 1,
+    "Animator": 3,
+    "BodyPartDescription": 18,
+    "HeapProfilerService": 1,
+    "ScriptProfilerService": 1,
+    "AvatarCreationService": 1,
+    "TeleportService": 1,
+    "TraceRouteService": 1,
+    "ProximityPromptService": 1,
+    "AdService": 1,
+    "Stats": 1,
+    "TextBox": 16,
+    "CommerceService": 1,
+    "UGCValidationService": 1,
+    "Teams": 1,
+    "TextLabel": 50,
+    "Atmosphere": 1,
+    "NotificationService": 1,
+    "Frame": 94,
+    "Sky": 1,
+    "EncodingService": 1,
+    "BindableFunction": 3,
+    "PackageService": 1,
+    "NetworkClient": 1,
+    "ModuleScript": 31,
+    "LocalScript": 12,
+    "StudioTestService": 1,
+    "VideoService": 1,
+    "HSRDataContentProvider": 1,
+    "StringValue": 37,
+    "SphereHandleAdornment": 6,
+    "BrowserService": 1,
+    "RemoteEvent": 2,
+    "GuidRegistryService": 1,
+    "ScriptDocument": 2,
+    "VRService": 1,
+    "TotalCountTimeIntervalItem": 36,
+    "ChangeHistoryService": 1,
+    "StarterPlayerScripts": 1,
+    "ScriptDebuggerService": 1,
+    "ScriptDebugger": 48,
+    "VisualizationModeCategory": 8,
+    "SoundService": 1,
+    "LuaWebService": 1,
+    "RunningAverageItemDouble": 2,
+    "BodyColors": 2,
+    "FriendService": 1,
+    "ColorCorrectionEffect": 1,
+    "Players": 1,
+    "DockWidgetPluginGui": 4,
+    "CookiesService": 1,
+    "StudioDeviceSimulatorService": 1,
+    "PlacesService": 1,
+    "SelectionHighlightManager": 1,
+    "LogService": 1,
+    "AnimationClipProvider": 1,
+    "TimerService": 1,
+    "InstanceFileSyncService": 1,
+    "TextChatService": 1,
+    "CanvasGroup": 1,
+    "Chat": 1,
+    "ServerStorage": 1,
+    "Selection": 1,
+    "Workspace": 1,
+    "TouchInputService": 1,
+    "Vector3Value": 24,
+    "GamepadService": 1,
+    "MeshPart": 18,
+    "ScriptEditorService": 1,
+    "BubbleChatConfiguration": 1,
+    "KeyboardService": 1,
+    "UserInputService": 1,
+    "Backpack": 1,
+    "UIGradient": 7,
+    "RemoteDebuggerServer": 1,
+    "GamePassService": 1,
+    "PathfindingService": 1,
+    "ChatWindowConfiguration": 1,
+    "TouchTransmitter": 12,
+    "PhysicsService": 1,
+    "StatsItem": 1138,
+    "JointsService": 1,
+    "VoiceChatService": 1,
+    "MemStorageService": 1,
+    "Decal": 12,
+    "TestService": 1,
+    "ChatInputBarConfiguration": 1,
+    "Motor6D": 28,
+    "SurfaceGui": 2,
+    "HttpRbxApiService": 1,
+    "IntValue": 1,
+    "Packages": 1,
+    "ConeHandleAdornment": 6,
+    "SunRaysEffect": 1,
+    "VersionControlService": 1,
+    "Weld": 12,
+    "DraftsService": 1,
+    "BoolValue": 1,
+    "TextService": 1,
+    "Pose": 2712,
+    "PlayerScripts": 1,
+    "Model": 5,
+    "LocalizationService": 1,
+    "RecommendationService": 1,
+    "AnalyticsService": 1,
+    "UICorner": 18,
+    "ScreenshotHud": 1,
+    "InsertService": 1,
+    "DraggerService": 1,
+    "SurfaceLight": 1,
+    "Player": 1,
+    "VideoCaptureService": 1,
+    "ContentProvider": 1,
+    "RunningAverageItemInt": 42,
+    "BoxHandleAdornment": 7,
+    "ScrollingFrame": 2,
+    "Keyframe": 320
+  },
+  "savedAnimationSequences": [
+    {
+      "path": "Workspace.Directional movement.AnimSaves.Forward",
+      "priority": "Core",
+      "duration": 0.8333333134651184,
+      "frames": 21,
+      "loop": true
+    },
+    {
+      "path": "Workspace.Directional movement.AnimSaves.idle",
+      "priority": "Core",
+      "duration": 2.0833332538604736,
+      "frames": 51,
+      "loop": true
+    },
+    {
+      "path": "Workspace.Directional movement.AnimSaves.back",
+      "priority": "Core",
+      "duration": 1,
+      "frames": 25,
+      "loop": true
+    },
+    {
+      "path": "Workspace.Directional movement.AnimSaves.forward",
+      "priority": "Core",
+      "duration": 1,
+      "frames": 25,
+      "loop": true
+    },
+    {
+      "path": "Workspace.Directional movement.AnimSaves.left",
+      "priority": "Core",
+      "duration": 1,
+      "frames": 25,
+      "loop": true
+    },
+    {
+      "path": "Workspace.Directional movement.AnimSaves.right",
+      "priority": "Core",
+      "duration": 1,
+      "frames": 25,
+      "loop": true
+    },
+    {
+      "path": "Workspace.Directional movement.AnimSaves.ExportAnim.Test",
+      "priority": "Core",
+      "duration": 1,
+      "frames": 21,
+      "loop": true
+    },
+    {
+      "path": "Workspace.Directional movement.AnimSaves.Automatic Save",
+      "priority": "Core",
+      "duration": 2.0999999046325684,
+      "frames": 43,
+      "loop": true
+    },
+    {
+      "path": "ServerStorage.CorrectedDirectionalAnimations.Right",
+      "priority": "Movement",
+      "duration": 1,
+      "frames": 21,
+      "loop": true
+    },
+    {
+      "path": "ServerStorage.CorrectedDirectionalAnimations.Forward",
+      "priority": "Movement",
+      "duration": 1,
+      "frames": 21,
+      "loop": true
+    },
+    {
+      "path": "ServerStorage.CorrectedDirectionalAnimations.Left",
+      "priority": "Movement",
+      "duration": 1,
+      "frames": 21,
+      "loop": true
+    },
+    {
+      "path": "ServerStorage.CorrectedDirectionalAnimations.Backward",
+      "priority": "Movement",
+      "duration": 1,
+      "frames": 21,
+      "loop": true
+    }
+  ],
+  "name": "Untitled Experience",
+  "gameId": 10771319202,
+  "assetReferences": [
+    {
+      "path": "Workspace.Baseplate.Texture",
+      "properties": {
+        "Texture": "rbxassetid://6372755229"
+      },
+      "class": "Texture"
+    },
+    {
+      "path": "Workspace.Directional movement.Head.Mesh",
+      "properties": {
+        "MeshId": "",
+        "TextureId": ""
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "Workspace.Directional movement.Head.Decal",
+      "properties": {
+        "Texture": "rbxassetid://6821165844"
+      },
+      "class": "Decal"
+    },
+    {
+      "path": "Workspace.Directional movement.HumanoidRootPart",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxassetid://7993328982"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "Workspace.Directional movement.AnimSaves.TestAnim",
+      "properties": {
+        "AnimationId": "461a6b3e1ef9a05d5773c9a40f13f4c5"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "Workspace.Directional movement.AnimSaves.ExportAnim",
+      "properties": {
+        "AnimationId": "d5514a49148679036744f11238049acd"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "Workspace.SpawnLocation.Decal",
+      "properties": {
+        "Texture": "rbxasset://textures/SpawnLocation.png"
+      },
+      "class": "Decal"
+    },
+    {
+      "path": "Workspace.iPhone.PhoneBase",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxassetid://13604843204"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "Workspace.iPhone.BackGlass",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxassetid://13604854264"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "Workspace.iPhone.FrontGlass",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxassetid://13604845652"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "Workspace.iPhone.CameraLens",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxassetid://13604847193"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "TextChatService.BubbleChatConfiguration.ImageLabel",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.Animate.idle.Animation1",
+      "properties": {
+        "AnimationId": "rbxassetid://80030795855352"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.Animate.idle.Animation2",
+      "properties": {
+        "AnimationId": "rbxassetid://80030795855352"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.Animate.walk.WalkAnim",
+      "properties": {
+        "AnimationId": "rbxassetid://83832832062401"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.Animate.run.RunAnim",
+      "properties": {
+        "AnimationId": "rbxassetid://126175296967819"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.Animate.jump.JumpAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=125750702"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.Animate.climb.ClimbAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=180436334"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.Animate.toolnone.ToolNoneAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=182393478"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.Animate.fall.FallAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=180436148"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.Animate.sit.SitAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=178130996"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.LandingAnimation.LandingAnimation",
+      "properties": {
+        "AnimationId": "rbxassetid://92992722376914"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.HighFallAnimation.FallAnimation",
+      "properties": {
+        "AnimationId": "rbxassetid://87983269304583"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Animate.idle.Animation1",
+      "properties": {
+        "AnimationId": "rbxassetid://80030795855352"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Animate.idle.Animation2",
+      "properties": {
+        "AnimationId": "rbxassetid://80030795855352"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Animate.walk.WalkAnim",
+      "properties": {
+        "AnimationId": "rbxassetid://83832832062401"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Animate.run.RunAnim",
+      "properties": {
+        "AnimationId": "rbxassetid://126175296967819"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Animate.jump.JumpAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=125750702"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Animate.climb.ClimbAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=180436334"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Animate.toolnone.ToolNoneAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=182393478"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Animate.fall.FallAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=180436148"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Animate.sit.SitAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=178130996"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Shirt",
+      "properties": {
+        "ShirtTemplate": "http://www.roblox.com/asset/?id=14997123616"
+      },
+      "class": "Shirt"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Pants",
+      "properties": {
+        "PantsTemplate": "http://www.roblox.com/asset/?id=867826313"
+      },
+      "class": "Pants"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Knife Headband Prop II.Handle.SpecialMesh",
+      "properties": {
+        "MeshId": "rbxassetid://7751246695",
+        "TextureId": "rbxassetid://7045521323"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.defaultAccessory.Handle.SpecialMesh",
+      "properties": {
+        "MeshId": "rbxassetid://14168140775",
+        "TextureId": "rbxassetid://14168326979"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Accessory (Retopo_RatTailAccessory).Handle.SpecialMesh",
+      "properties": {
+        "MeshId": "rbxassetid://17373335375",
+        "TextureId": "rbxassetid://17373398823"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Accessory (GuitarAccessory).Handle.SpecialMesh",
+      "properties": {
+        "MeshId": "rbxassetid://98474870827928",
+        "TextureId": "rbxassetid://92591347557065"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Accessory (Handle).Handle.Mesh",
+      "properties": {
+        "MeshId": "rbxassetid://18952945525",
+        "TextureId": "rbxassetid://76634057097498"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Accessory (Emo Hair).Handle.SpecialMesh",
+      "properties": {
+        "MeshId": "rbxassetid://132798056432132",
+        "TextureId": "rbxassetid://127233640342226"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Head.Mesh",
+      "properties": {
+        "MeshId": "",
+        "TextureId": ""
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Head.face",
+      "properties": {
+        "Texture": "rbxasset://textures/face.png"
+      },
+      "class": "Decal"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Torso.roblox",
+      "properties": {
+        "Texture": ""
+      },
+      "class": "Decal"
+    },
+    {
+      "path": "StarterPack.iPhone.Handle",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxassetid://13604843204"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "StarterPack.iPhone.Handle.EquipSfx",
+      "properties": {
+        "SoundId": "rbxasset://sounds/electronicpingshort.wav"
+      },
+      "class": "Sound"
+    },
+    {
+      "path": "StarterPack.iPhone.Handle.StowSfx",
+      "properties": {
+        "SoundId": "rbxasset://sounds/electronicpingshort.wav"
+      },
+      "class": "Sound"
+    },
+    {
+      "path": "StarterPack.iPhone.BackGlass",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxassetid://13604854264"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "StarterPack.iPhone.FrontGlass",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxassetid://13604845652"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "StarterPack.iPhone.CameraLens",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxassetid://13604847193"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.EventReceiver",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxasset://models/ViewSelector/Basic.mesh"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.pnp",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxasset://models/ViewSelector/Corner.mesh"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.nnn",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxasset://models/ViewSelector/Corner.mesh"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.npn",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxasset://models/ViewSelector/Corner.mesh"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.pnn",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxasset://models/ViewSelector/Corner.mesh"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.0p0",
+      "properties": {
+        "Texture": "rbxasset://textures/ViewSelector/top.png"
+      },
+      "class": "Decal"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.0n0",
+      "properties": {
+        "Texture": "rbxasset://textures/ViewSelector/bottom.png"
+      },
+      "class": "Decal"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.p00",
+      "properties": {
+        "Texture": "rbxasset://textures/ViewSelector/right.png"
+      },
+      "class": "Decal"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.00n",
+      "properties": {
+        "Texture": "rbxasset://textures/ViewSelector/front.png"
+      },
+      "class": "Decal"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.00p",
+      "properties": {
+        "Texture": "rbxasset://textures/ViewSelector/back.png"
+      },
+      "class": "Decal"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.nnp",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxasset://models/ViewSelector/Corner.mesh"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.n00",
+      "properties": {
+        "Texture": "rbxasset://textures/ViewSelector/left.png"
+      },
+      "class": "Decal"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.npp",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxasset://models/ViewSelector/Corner.mesh"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.ppp",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxasset://models/ViewSelector/Corner.mesh"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.Viewport.Model.ppn",
+      "properties": {
+        "TextureID": "",
+        "MeshId": "rbxasset://models/ViewSelector/Corner.mesh"
+      },
+      "class": "MeshPart"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.ArrowButtons.UpArrow",
+      "properties": {
+        "Image": "rbxasset://textures/ViewSelector/face_arrow.png"
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.ArrowButtons.RightArrow",
+      "properties": {
+        "Image": "rbxasset://textures/ViewSelector/face_arrow.png"
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.ArrowButtons.LeftArrow",
+      "properties": {
+        "Image": "rbxasset://textures/ViewSelector/face_arrow.png"
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "CoreGui.ViewSelectorScreenGui.Panel.ArrowButtons.DownArrow",
+      "properties": {
+        "Image": "rbxasset://textures/ViewSelector/face_arrow.png"
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "CoreGui.CharacterGui.Main.Container.Character",
+      "properties": {
+        "Image": "https://www.roblox.com/bust-thumbnail/image?userId=24243319&width=420&height=420&format=png"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "PluginGuiService.PluginGui.GUI.FOV_DD.FOV_DD_Slide.FOV_DD_Slider",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.PluginGui.GUI.Tilt_DD.Tilt_DD_Slide.Tilt_DD_Slider",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.PluginGui.GUI.TransitionDuration_DD.TransitionDuration_DD_Slide.TransitionDuration_DD_Slider",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.PluginGui.GUI.TransitionType_DD.TransitionType_DD_Slide.TransitionType_DD_Slider",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.PluginGui.GUI.RecordInterval_DD.RecordInterval_DD_Slide.RecordInterval_DD_Slider",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.PluginGui.GUI.Playback_DD.Playback_DD_Slide.Playback_DD_Slider",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.PluginGui.GUI.PlaybackLooped_DD.PlaybackLooped_DD_Slide.PlaybackLooped_DD_Slider",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.PluginGui.GUI.TransitionDelay_DD.TransitionDelay_DD_Slide.TransitionDelay_DD_Slider",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.PluginGui.GUI.PlaybackSpeed_DD.PlaybackSpeed_DD_Slide.PlaybackSpeed_DD_Slider",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.PluginGui.GUI.PlaybackCharacterControl_DD.PlaybackCharacterControl_DD_Slide.PlaybackCharacterControl_DD_Slider",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.Header.VersionIndicator.Border",
+      "properties": {
+        "Image": "rbxassetid://5981360137"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.Header.VersionIndicator.Border.Indicator",
+      "properties": {
+        "Image": "rbxassetid://3056541177"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.Header.Logo",
+      "properties": {
+        "Image": "rbxassetid://5990772764"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.Buttons.Settings",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.Buttons.Settings.HoverOverlay",
+      "properties": {
+        "Image": "rbxassetid://5981360418"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.Buttons.Settings.TouchRipple.Circle",
+      "properties": {
+        "Image": "rbxassetid://2609138523"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.Buttons.Settings.Border",
+      "properties": {
+        "Image": "rbxassetid://5981360137"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.Buttons.Connect",
+      "properties": {
+        "Image": ""
+      },
+      "class": "ImageButton"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.Buttons.Connect.HoverOverlay",
+      "properties": {
+        "Image": "rbxassetid://5981360418"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.Buttons.Connect.TouchRipple.Circle",
+      "properties": {
+        "Image": "rbxassetid://2609138523"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.Buttons.Connect.Background",
+      "properties": {
+        "Image": "rbxassetid://5981360418"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.AddressEntry",
+      "properties": {
+        "Image": "rbxassetid://5981360418"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "PluginGuiService.Rojo 7.7.0.Background.NotConnectedPage.AddressEntry.Border",
+      "properties": {
+        "Image": "rbxassetid://5981360137"
+      },
+      "class": "ImageLabel"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate.idle.Animation1",
+      "properties": {
+        "AnimationId": "rbxassetid://80030795855352"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate.idle.Animation2",
+      "properties": {
+        "AnimationId": "rbxassetid://80030795855352"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate.walk.WalkAnim",
+      "properties": {
+        "AnimationId": "rbxassetid://83832832062401"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate.run.RunAnim",
+      "properties": {
+        "AnimationId": "rbxassetid://126175296967819"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate.jump.JumpAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=125750702"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate.climb.ClimbAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=180436334"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate.toolnone.ToolNoneAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=182393478"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate.fall.FallAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=180436148"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate.sit.SitAnim",
+      "properties": {
+        "AnimationId": "http://www.roblox.com/asset/?id=178130996"
+      },
+      "class": "Animation"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Shirt",
+      "properties": {
+        "ShirtTemplate": "http://www.roblox.com/asset/?id=14997123616"
+      },
+      "class": "Shirt"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Pants",
+      "properties": {
+        "PantsTemplate": "http://www.roblox.com/asset/?id=867826313"
+      },
+      "class": "Pants"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Knife Headband Prop II.Handle.SpecialMesh",
+      "properties": {
+        "MeshId": "rbxassetid://7751246695",
+        "TextureId": "rbxassetid://7045521323"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.defaultAccessory.Handle.SpecialMesh",
+      "properties": {
+        "MeshId": "rbxassetid://14168140775",
+        "TextureId": "rbxassetid://14168326979"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Accessory (Retopo_RatTailAccessory).Handle.SpecialMesh",
+      "properties": {
+        "MeshId": "rbxassetid://17373335375",
+        "TextureId": "rbxassetid://17373398823"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Accessory (GuitarAccessory).Handle.SpecialMesh",
+      "properties": {
+        "MeshId": "rbxassetid://98474870827928",
+        "TextureId": "rbxassetid://92591347557065"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Accessory (Handle).Handle.Mesh",
+      "properties": {
+        "MeshId": "rbxassetid://18952945525",
+        "TextureId": "rbxassetid://76634057097498"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Accessory (Emo Hair).Handle.SpecialMesh",
+      "properties": {
+        "MeshId": "rbxassetid://132798056432132",
+        "TextureId": "rbxassetid://127233640342226"
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Head.Mesh",
+      "properties": {
+        "MeshId": "",
+        "TextureId": ""
+      },
+      "class": "SpecialMesh"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Head.face",
+      "properties": {
+        "Texture": "rbxasset://textures/face.png"
+      },
+      "class": "Decal"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Torso.roblox",
+      "properties": {
+        "Texture": ""
+      },
+      "class": "Decal"
+    }
+  ],
+  "placeId": 77673228224887,
+  "scriptSettings": [
+    {
+      "path": "Workspace.Camera.WelderPart",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "Script"
+    },
+    {
+      "path": "Workspace.Camera.WelderPart",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "Script"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.ShoulderLock",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion",
+      "attributes": {
+        "SprintSideLeanDegrees": 10,
+        "FallArmRaiseSeconds": 2.5,
+        "SprintForwardLeanDegrees": 8,
+        "FallArmRaiseDegrees": 145
+      },
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129967478",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.128777973",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.180436334",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182435998",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.125750702",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.126175296967819",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182436842",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.178130996",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129423030",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182436935",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129423131",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182393478",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491423",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491277",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491037",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.128853357",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491368",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491248",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.92992722376914",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129967390",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.80030795855352",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.180426354",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491065",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.180436148",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.83832832062401",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.74616130696483",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.120133944205981",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.106329735159049",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.87983269304583",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.Sprint",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.AnimationFootsteps",
+      "attributes": {
+        "SoundId": "rbxasset://sounds/action_footsteps_plastic.mp3",
+        "SampleDuration": 0.16,
+        "SampleStart": 0
+      },
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.AnimationFootsteps.FootContacts",
+      "attributes": [],
+      "class": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.AirTravelFacing",
+      "attributes": {
+        "TurnRate": 10
+      },
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.PhoneToggle",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    },
+    {
+      "path": "StarterPlayer.StarterPlayerScripts.PhoneAwareness",
+      "attributes": {
+        "SoftFocusSize": 0,
+        "ClearRadius": 3,
+        "FocusDistance": 3,
+        "DistanceBlur": 1
+      },
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.Animate",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.LandingAnimation",
+      "attributes": {
+        "MinimumFallHeight": 12
+      },
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacterScripts.HighFallAnimation",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    },
+    {
+      "path": "StarterPlayer.StarterCharacter.Animate",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    },
+    {
+      "path": "StarterPack.iPhone.ScreenLight",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "Script"
+    },
+    {
+      "path": "ServerScriptService.Sprint",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "Script"
+    },
+    {
+      "path": "ServerScriptService.PhoneEquip",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "Script"
+    },
+    {
+      "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate",
+      "attributes": [],
+      "runContext": "Legacy",
+      "class": "LocalScript"
+    }
+  ],
+  "roots": [
+    {
+      "class": "Workspace",
+      "name": "Workspace",
+      "descendants": 2456
+    },
+    {
+      "class": "RunService",
+      "name": "Run Service",
+      "descendants": 0
+    },
+    {
+      "class": "GuiService",
+      "name": "GuiService",
+      "descendants": 1
+    },
+    {
+      "class": "Stats",
+      "name": "Stats",
+      "descendants": 1218
+    },
+    {
+      "class": "TimerService",
+      "name": "TimerService",
+      "descendants": 0
+    },
+    {
+      "class": "CollectionService",
+      "name": "CollectionService",
+      "descendants": 0
+    },
+    {
+      "class": "SoundService",
+      "name": "SoundService",
+      "descendants": 0
+    },
+    {
+      "class": "VideoCaptureService",
+      "name": "VideoCaptureService",
+      "descendants": 0
+    },
+    {
+      "class": "LogService",
+      "name": "LogService",
+      "descendants": 0
+    },
+    {
+      "class": "MicroProfilerService",
+      "name": "MicroProfilerService",
+      "descendants": 0
+    },
+    {
+      "class": "ContentProvider",
+      "name": "ContentProvider",
+      "descendants": 0
+    },
+    {
+      "class": "KeyframeSequenceProvider",
+      "name": "KeyframeSequenceProvider",
+      "descendants": 0
+    },
+    {
+      "class": "AnimationClipProvider",
+      "name": "AnimationClipProvider",
+      "descendants": 0
+    },
+    {
+      "class": "Chat",
+      "name": "Chat",
+      "descendants": 0
+    },
+    {
+      "class": "MarketplaceService",
+      "name": "MarketplaceService",
+      "descendants": 0
+    },
+    {
+      "class": "Players",
+      "name": "Players",
+      "descendants": 3
+    },
+    {
+      "class": "PointsService",
+      "name": "PointsService",
+      "descendants": 0
+    },
+    {
+      "class": "NotificationService",
+      "name": "NotificationService",
+      "descendants": 0
+    },
+    {
+      "class": "ReplicatedFirst",
+      "name": "ReplicatedFirst",
+      "descendants": 0
+    },
+    {
+      "class": "HttpRbxApiService",
+      "name": "HttpRbxApiService",
+      "descendants": 0
+    },
+    {
+      "class": "TweenService",
+      "name": "TweenService",
+      "descendants": 0
+    },
+    {
+      "class": "MaterialService",
+      "name": "MaterialService",
+      "descendants": 0
+    },
+    {
+      "class": "TextChatService",
+      "name": "TextChatService",
+      "descendants": 8
+    },
+    {
+      "class": "TextService",
+      "name": "TextService",
+      "descendants": 0
+    },
+    {
+      "class": "PermissionsService",
+      "name": "PermissionsService",
+      "descendants": 0
+    },
+    {
+      "class": "SharedTableRegistry",
+      "name": "SharedTableRegistry",
+      "descendants": 0
+    },
+    {
+      "class": "StarterPlayer",
+      "name": "StarterPlayer",
+      "descendants": 209
+    },
+    {
+      "class": "StarterPack",
+      "name": "StarterPack",
+      "descendants": 18
+    },
+    {
+      "class": "StarterGui",
+      "name": "StarterGui",
+      "descendants": 10
+    },
+    {
+      "class": "CoreGui",
+      "name": "CoreGui",
+      "descendants": 202
+    },
+    {
+      "class": "LocalizationService",
+      "name": "LocalizationService",
+      "descendants": 0
+    },
+    {
+      "class": "PolicyService",
+      "name": "PolicyService",
+      "descendants": 0
+    },
+    {
+      "class": "TeleportService",
+      "name": "Teleport Service",
+      "descendants": 0
+    },
+    {
+      "class": "JointsService",
+      "name": "JointsService",
+      "descendants": 0
+    },
+    {
+      "class": "PhysicsService",
+      "name": "PhysicsService",
+      "descendants": 0
+    },
+    {
+      "class": "BadgeService",
+      "name": "BadgeService",
+      "descendants": 0
+    },
+    {
+      "class": "FriendService",
+      "name": "FriendService",
+      "descendants": 0
+    },
+    {
+      "class": "InsertService",
+      "name": "InsertService",
+      "descendants": 1
+    },
+    {
+      "class": "GamePassService",
+      "name": "GamePassService",
+      "descendants": 0
+    },
+    {
+      "class": "Debris",
+      "name": "Debris",
+      "descendants": 0
+    },
+    {
+      "class": "CookiesService",
+      "name": "CookiesService",
+      "descendants": 0
+    },
+    {
+      "class": "Selection",
+      "name": "Selection",
+      "descendants": 0
+    },
+    {
+      "class": "UserInputService",
+      "name": "UserInputService",
+      "descendants": 0
+    },
+    {
+      "class": "KeyboardService",
+      "name": "KeyboardService",
+      "descendants": 0
+    },
+    {
+      "class": "MouseService",
+      "name": "MouseService",
+      "descendants": 0
+    },
+    {
+      "class": "VRService",
+      "name": "VRService",
+      "descendants": 0
+    },
+    {
+      "class": "ContextActionService",
+      "name": "ContextActionService",
+      "descendants": 0
+    },
+    {
+      "class": "ScriptService",
+      "name": "ScriptService",
+      "descendants": 0
+    },
+    {
+      "class": "AssetService",
+      "name": "AssetService",
+      "descendants": 0
+    },
+    {
+      "class": "TouchInputService",
+      "name": "TouchInputService",
+      "descendants": 0
+    },
+    {
+      "class": "BrowserService",
+      "name": "BrowserService",
+      "descendants": 0
+    },
+    {
+      "class": "CaptureService",
+      "name": "CaptureService",
+      "descendants": 0
+    },
+    {
+      "class": "AnalyticsService",
+      "name": "AnalyticsService",
+      "descendants": 0
+    },
+    {
+      "class": "SlimContentProvider",
+      "name": "SlimContentProvider",
+      "descendants": 0
+    },
+    {
+      "class": "Packages",
+      "name": "Packages",
+      "descendants": 0
+    },
+    {
+      "class": "GuidRegistryService",
+      "name": "GuidRegistryService",
+      "descendants": 0
+    },
+    {
+      "class": "PluginGuiService",
+      "name": "PluginGuiService",
+      "descendants": 172
+    },
+    {
+      "class": "ScriptContext",
+      "name": "Script Context",
+      "descendants": 0
+    },
+    {
+      "class": "PlacesService",
+      "name": "PlacesService",
+      "descendants": 0
+    },
+    {
+      "class": "SelectionHighlightManager",
+      "name": "SelectionHighlightManager",
+      "descendants": 0
+    },
+    {
+      "class": "StudioDeviceSimulatorService",
+      "name": "StudioDeviceSimulatorService",
+      "descendants": 0
+    },
+    {
+      "class": "PathfindingService",
+      "name": "PathfindingService",
+      "descendants": 0
+    },
+    {
+      "class": "ScriptEditorService",
+      "name": "ScriptEditorService",
+      "descendants": 2
+    },
+    {
+      "class": "RemoteDebuggerServer",
+      "name": "RemoteDebuggerServer",
+      "descendants": 0
+    },
+    {
+      "class": "DebuggerManager",
+      "name": "DebuggerManager",
+      "descendants": 48
+    },
+    {
+      "class": "ScriptDebuggerService",
+      "name": "ScriptDebuggerService",
+      "descendants": 0
+    },
+    {
+      "class": "PluginDebugService",
+      "name": "PluginDebugService",
+      "descendants": 0
+    },
+    {
+      "class": "ServiceVisibilityService",
+      "name": "ServiceVisibilityService",
+      "descendants": 0
+    },
+    {
+      "class": "PublishService",
+      "name": "PublishService",
+      "descendants": 0
+    },
+    {
+      "class": "ChangeHistoryService",
+      "name": "ChangeHistoryService",
+      "descendants": 0
+    },
+    {
+      "class": "LuaWebService",
+      "name": "LuaWebService",
+      "descendants": 0
+    },
+    {
+      "class": "ProcessInstancePhysicsService",
+      "name": "ProcessInstancePhysicsService",
+      "descendants": 0
+    },
+    {
+      "class": "ReplicatedStorage",
+      "name": "ReplicatedStorage",
+      "descendants": 2
+    },
+    {
+      "class": "ServerScriptService",
+      "name": "ServerScriptService",
+      "descendants": 2
+    },
+    {
+      "class": "ServerStorage",
+      "name": "ServerStorage",
+      "descendants": 807
+    },
+    {
+      "class": "NetworkClient",
+      "name": "NetworkClient",
+      "descendants": 1
+    },
+    {
+      "class": "StudioService",
+      "name": "StudioService",
+      "descendants": 0
+    },
+    {
+      "class": "VideoService",
+      "name": "VideoService",
+      "descendants": 0
+    },
+    {
+      "class": "HttpService",
+      "name": "HttpService",
+      "descendants": 0
+    },
+    {
+      "class": "HapticService",
+      "name": "HapticService",
+      "descendants": 0
+    },
+    {
+      "class": "StudioTestService",
+      "name": "StudioTestService",
+      "descendants": 0
+    },
+    {
+      "class": "PackageService",
+      "name": "PackageService",
+      "descendants": 0
+    },
+    {
+      "class": "Visit",
+      "name": "Visit",
+      "descendants": 0
+    },
+    {
+      "class": "TraceRouteService",
+      "name": "TraceRouteService",
+      "descendants": 0
+    },
+    {
+      "class": "Lighting",
+      "name": "Lighting",
+      "descendants": 5
+    },
+    {
+      "class": "Teams",
+      "name": "Teams",
+      "descendants": 0
+    },
+    {
+      "class": "FeatureRestrictionManager",
+      "name": "FeatureRestrictionManager",
+      "descendants": 0
+    },
+    {
+      "class": "CommerceService",
+      "name": "CommerceService",
+      "descendants": 0
+    },
+    {
+      "class": "RecommendationService",
+      "name": "RecommendationService",
+      "descendants": 0
+    },
+    {
+      "class": "TestService",
+      "name": "TestService",
+      "descendants": 0
+    },
+    {
+      "class": "AdService",
+      "name": "AdService",
+      "descendants": 0
+    },
+    {
+      "class": "SocialService",
+      "name": "SocialService",
+      "descendants": 0
+    },
+    {
+      "class": "ProximityPromptService",
+      "name": "ProximityPromptService",
+      "descendants": 0
+    },
+    {
+      "class": "VoiceChatService",
+      "name": "VoiceChatService",
+      "descendants": 0
+    },
+    {
+      "class": "AvatarCreationService",
+      "name": "AvatarCreationService",
+      "descendants": 0
+    },
+    {
+      "class": "AvatarEditorService",
+      "name": "AvatarEditorService",
+      "descendants": 0
+    },
+    {
+      "class": "GenerationService",
+      "name": "GenerationService",
+      "descendants": 0
+    },
+    {
+      "class": "ScriptProfilerService",
+      "name": "ScriptProfilerService",
+      "descendants": 0
+    },
+    {
+      "class": "HeapProfilerService",
+      "name": "HeapProfilerService",
+      "descendants": 0
+    },
+    {
+      "class": "ModerationService",
+      "name": "ModerationService",
+      "descendants": 0
+    },
+    {
+      "class": "VersionControlService",
+      "name": "VersionControlService",
+      "descendants": 0
+    },
+    {
+      "class": "RemoteCommandService",
+      "name": "RemoteCommandService",
+      "descendants": 0
+    },
+    {
+      "class": "",
+      "name": "FilteredSelection",
+      "descendants": 0
+    },
+    {
+      "class": "SpawnerService",
+      "name": "SpawnerService",
+      "descendants": 0
+    },
+    {
+      "class": "StudioCaptureService",
+      "name": "StudioCaptureService",
+      "descendants": 0
+    },
+    {
+      "class": "MeshContentProvider",
+      "name": "MeshContentProvider",
+      "descendants": 0
+    },
+    {
+      "class": "SolidModelContentProvider",
+      "name": "SolidModelContentProvider",
+      "descendants": 0
+    },
+    {
+      "class": "HSRDataContentProvider",
+      "name": "HSRDataContentProvider",
+      "descendants": 0
+    },
+    {
+      "class": "InstanceFileSyncService",
+      "name": "InstanceFileSyncService",
+      "descendants": 0
+    },
+    {
+      "class": "UniqueIdLookupService",
+      "name": "UniqueIdLookupService",
+      "descendants": 0
+    },
+    {
+      "class": "GamepadService",
+      "name": "GamepadService",
+      "descendants": 0
+    },
+    {
+      "class": "",
+      "name": "FilteredSelection",
+      "descendants": 0
+    },
+    {
+      "class": "",
+      "name": "FilteredSelection",
+      "descendants": 0
+    },
+    {
+      "class": "",
+      "name": "FilteredSelection",
+      "descendants": 0
+    },
+    {
+      "class": "",
+      "name": "FilteredSelection",
+      "descendants": 0
+    },
+    {
+      "class": "TextBoxService",
+      "name": "TextBoxService",
+      "descendants": 0
+    },
+    {
+      "class": "ControllerService",
+      "name": "ControllerService",
+      "descendants": 1
+    },
+    {
+      "class": "MemStorageService",
+      "name": "MemStorageService",
+      "descendants": 239
+    },
+    {
+      "class": "StylingService",
+      "name": "StylingService",
+      "descendants": 568
+    },
+    {
+      "class": "UIDragDetectorService",
+      "name": "UIDragDetectorService",
+      "descendants": 0
+    },
+    {
+      "class": "UGCValidationService",
+      "name": "UGCValidationService",
+      "descendants": 0
+    },
+    {
+      "class": "SerializationService",
+      "name": "SerializationService",
+      "descendants": 0
+    },
+    {
+      "class": "ReflectionService",
+      "name": "ReflectionService",
+      "descendants": 0
+    },
+    {
+      "class": "EncodingService",
+      "name": "EncodingService",
+      "descendants": 0
+    },
+    {
+      "class": "UserService",
+      "name": "UserService",
+      "descendants": 0
+    },
+    {
+      "class": "VirtualInputManager",
+      "name": "VirtualInputManager",
+      "descendants": 0
+    },
+    {
+      "class": "PluginManagementService",
+      "name": "PluginManagementService",
+      "descendants": 0
+    },
+    {
+      "class": "InstanceExtensionsService",
+      "name": "InstanceExtensionsService",
+      "descendants": 0
+    },
+    {
+      "class": "DraftsService",
+      "name": "DraftsService",
+      "descendants": 0
+    },
+    {
+      "class": "VisualizationModeService",
+      "name": "VisualizationModeService",
+      "descendants": 28
+    },
+    {
+      "class": "DraggerService",
+      "name": "DraggerService",
+      "descendants": 0
+    },
+    {
+      "class": "PluginConnectionService",
+      "name": "PluginConnectionService",
+      "descendants": 0
+    }
+  ]
+}

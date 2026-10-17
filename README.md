@@ -1,5 +1,15 @@
 # Horror Adventure game
 
+## Current character and phone project — October 17, 2026
+
+Open **`MovementPhone-2026-10-17.rbxl`** in Roblox Studio for the current project exported from place `77673228224887` (Untitled Experience). This is a separate place from the historical school snapshots below.
+
+The snapshot includes the modified R6 character, directional movement and sprint blending, custom idle/fall/landing animations, synchronized footsteps, the F-key iPhone tool, screen lighting, phone sound effects, and the reduced-awareness overlay. It also preserves the Workspace reference rig, locally saved animation sequences, backups, GUI instances, and saved place configuration.
+
+Readable scripts and export documentation are in [`studio-export/`](studio-export/README.md). Roblox-hosted assets remain asset-ID references; live DataStores, cloud-only settings, and other experience places are outside this export. This is a snapshot, not automatic synchronization.
+
+## Historical school project
+
 Roblox Studio place snapshot from **Horror Adventure game**, place ID `138299763738587`.
 
 ## Open the game

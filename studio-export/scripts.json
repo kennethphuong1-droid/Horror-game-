@@ -1,0 +1,636 @@
+[
+  {
+    "bytes": 1203,
+    "path": "ServerScriptService.PhoneEquip",
+    "index": 1,
+    "class": "Script",
+    "parts": [
+      "ServerScriptService",
+      "PhoneEquip"
+    ],
+    "file": "studio-export/src/ServerScriptService/PhoneEquip/init.server.luau"
+  },
+  {
+    "bytes": 1611,
+    "path": "ServerScriptService.Sprint",
+    "index": 2,
+    "class": "Script",
+    "parts": [
+      "ServerScriptService",
+      "Sprint"
+    ],
+    "file": "studio-export/src/ServerScriptService/Sprint/init.server.luau"
+  },
+  {
+    "bytes": 16806,
+    "path": "ServerStorage.StarterCharacterBeforeDirectionalRig.Animate",
+    "index": 3,
+    "class": "LocalScript",
+    "parts": [
+      "ServerStorage",
+      "StarterCharacterBeforeDirectionalRig",
+      "Animate"
+    ],
+    "file": "studio-export/src/ServerStorage/StarterCharacterBeforeDirectionalRig/Animate/init.client.luau"
+  },
+  {
+    "bytes": 949,
+    "path": "StarterPack.iPhone.ScreenLight",
+    "index": 4,
+    "class": "Script",
+    "parts": [
+      "StarterPack",
+      "iPhone",
+      "ScreenLight"
+    ],
+    "file": "studio-export/src/StarterPack/iPhone/ScreenLight/init.server.luau"
+  },
+  {
+    "bytes": 17963,
+    "path": "StarterPlayer.StarterCharacter.Animate",
+    "index": 5,
+    "class": "LocalScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterCharacter",
+      "Animate"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterCharacter/Animate/init.client.luau"
+  },
+  {
+    "bytes": 17963,
+    "path": "StarterPlayer.StarterCharacterScripts.Animate",
+    "index": 6,
+    "class": "LocalScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterCharacterScripts",
+      "Animate"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterCharacterScripts/Animate/init.client.luau"
+  },
+  {
+    "bytes": 2271,
+    "path": "StarterPlayer.StarterCharacterScripts.HighFallAnimation",
+    "index": 7,
+    "class": "LocalScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterCharacterScripts",
+      "HighFallAnimation"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterCharacterScripts/HighFallAnimation/init.client.luau"
+  },
+  {
+    "bytes": 3057,
+    "path": "StarterPlayer.StarterCharacterScripts.LandingAnimation",
+    "index": 8,
+    "class": "LocalScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterCharacterScripts",
+      "LandingAnimation"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterCharacterScripts/LandingAnimation/init.client.luau"
+  },
+  {
+    "bytes": 1347,
+    "path": "StarterPlayer.StarterPlayerScripts.AirTravelFacing",
+    "index": 9,
+    "class": "LocalScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "AirTravelFacing"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/AirTravelFacing/init.client.luau"
+  },
+  {
+    "bytes": 4441,
+    "path": "StarterPlayer.StarterPlayerScripts.AnimationFootsteps",
+    "index": 10,
+    "class": "LocalScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "AnimationFootsteps"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/AnimationFootsteps/init.client.luau"
+  },
+  {
+    "bytes": 687,
+    "path": "StarterPlayer.StarterPlayerScripts.AnimationFootsteps.FootContacts",
+    "index": 11,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "AnimationFootsteps",
+      "FootContacts"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/AnimationFootsteps/FootContacts/init.luau"
+  },
+  {
+    "bytes": 5264,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion",
+    "index": 12,
+    "class": "LocalScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/init.client.luau"
+  },
+  {
+    "bytes": 96,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses",
+    "index": 13,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/init.luau"
+  },
+  {
+    "bytes": 26372,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.106329735159049",
+    "index": 14,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "106329735159049"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/106329735159049/init.luau"
+  },
+  {
+    "bytes": 26344,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.120133944205981",
+    "index": 15,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "120133944205981"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/120133944205981/init.luau"
+  },
+  {
+    "bytes": 15415,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.125750702",
+    "index": 16,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "125750702"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/125750702/init.luau"
+  },
+  {
+    "bytes": 17964,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.126175296967819",
+    "index": 17,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "126175296967819"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/126175296967819/init.luau"
+  },
+  {
+    "bytes": 41061,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.128777973",
+    "index": 18,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "128777973"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/128777973/init.luau"
+  },
+  {
+    "bytes": 32680,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.128853357",
+    "index": 19,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "128853357"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/128853357/init.luau"
+  },
+  {
+    "bytes": 31835,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129423030",
+    "index": 20,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "129423030"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/129423030/init.luau"
+  },
+  {
+    "bytes": 30757,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129423131",
+    "index": 21,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "129423131"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/129423131/init.luau"
+  },
+  {
+    "bytes": 2118,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129967390",
+    "index": 22,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "129967390"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/129967390/init.luau"
+  },
+  {
+    "bytes": 2029,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.129967478",
+    "index": 23,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "129967478"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/129967478/init.luau"
+  },
+  {
+    "bytes": 1382,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.178130996",
+    "index": 24,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "178130996"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/178130996/init.luau"
+  },
+  {
+    "bytes": 21856,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.180426354",
+    "index": 25,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "180426354"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/180426354/init.luau"
+  },
+  {
+    "bytes": 14681,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.180436148",
+    "index": 26,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "180436148"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/180436148/init.luau"
+  },
+  {
+    "bytes": 10753,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.180436334",
+    "index": 27,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "180436334"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/180436334/init.luau"
+  },
+  {
+    "bytes": 549,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182393478",
+    "index": 28,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "182393478"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182393478/init.luau"
+  },
+  {
+    "bytes": 23096,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182435998",
+    "index": 29,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "182435998"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182435998/init.luau"
+  },
+  {
+    "bytes": 38397,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182436842",
+    "index": 30,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "182436842"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182436842/init.luau"
+  },
+  {
+    "bytes": 25540,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182436935",
+    "index": 31,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "182436935"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182436935/init.luau"
+  },
+  {
+    "bytes": 23321,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491037",
+    "index": 32,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "182491037"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491037/init.luau"
+  },
+  {
+    "bytes": 23321,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491065",
+    "index": 33,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "182491065"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491065/init.luau"
+  },
+  {
+    "bytes": 38642,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491248",
+    "index": 34,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "182491248"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491248/init.luau"
+  },
+  {
+    "bytes": 38642,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491277",
+    "index": 35,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "182491277"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491277/init.luau"
+  },
+  {
+    "bytes": 25540,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491368",
+    "index": 36,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "182491368"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491368/init.luau"
+  },
+  {
+    "bytes": 25540,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.182491423",
+    "index": 37,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "182491423"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/182491423/init.luau"
+  },
+  {
+    "bytes": 26624,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.74616130696483",
+    "index": 38,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "74616130696483"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/74616130696483/init.luau"
+  },
+  {
+    "bytes": 45296,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.80030795855352",
+    "index": 39,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "80030795855352"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/80030795855352/init.luau"
+  },
+  {
+    "bytes": 26632,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.83832832062401",
+    "index": 40,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "83832832062401"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/83832832062401/init.luau"
+  },
+  {
+    "bytes": 2197,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.87983269304583",
+    "index": 41,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "87983269304583"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/87983269304583/init.luau"
+  },
+  {
+    "bytes": 11851,
+    "path": "StarterPlayer.StarterPlayerScripts.DirectionalLocomotion.CompatiblePoses.92992722376914",
+    "index": 42,
+    "class": "ModuleScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "DirectionalLocomotion",
+      "CompatiblePoses",
+      "92992722376914"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/DirectionalLocomotion/CompatiblePoses/92992722376914/init.luau"
+  },
+  {
+    "bytes": 1946,
+    "path": "StarterPlayer.StarterPlayerScripts.PhoneAwareness",
+    "index": 43,
+    "class": "LocalScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "PhoneAwareness"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/PhoneAwareness/init.client.luau"
+  },
+  {
+    "bytes": 2687,
+    "path": "StarterPlayer.StarterPlayerScripts.PhoneToggle",
+    "index": 44,
+    "class": "LocalScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "PhoneToggle"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/PhoneToggle/init.client.luau"
+  },
+  {
+    "bytes": 5812,
+    "path": "StarterPlayer.StarterPlayerScripts.ShoulderLock",
+    "index": 45,
+    "class": "LocalScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "ShoulderLock"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/ShoulderLock/init.client.luau"
+  },
+  {
+    "bytes": 3030,
+    "path": "StarterPlayer.StarterPlayerScripts.Sprint",
+    "index": 46,
+    "class": "LocalScript",
+    "parts": [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "Sprint"
+    ],
+    "file": "studio-export/src/StarterPlayer/StarterPlayerScripts/Sprint/init.client.luau"
+  },
+  {
+    "bytes": 21,
+    "path": "Workspace.Camera.WelderPart",
+    "index": 47,
+    "class": "Script",
+    "parts": [
+      "Workspace",
+      "Camera",
+      "WelderPart"
+    ],
+    "file": "studio-export/src/Workspace/Camera/WelderPart/init.server.luau"
+  },
+  {
+    "bytes": 21,
+    "path": "Workspace.Camera.WelderPart",
+    "index": 48,
+    "class": "Script",
+    "parts": [
+      "Workspace",
+      "Camera",
+      "WelderPart"
+    ],
+    "file": "studio-export/src/Workspace/Camera/WelderPart__48/init.server.luau"
+  }
+]
